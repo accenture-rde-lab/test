@@ -10,7 +10,7 @@
 
 ## 📋 AssetStatus
 <!-- RDE_ASSET_STATUS:START -->
-stage-exploring
+stage-validating
 <!-- RDE_ASSET_STATUS:END -->
 
 ## 🗂️ AssetCategory
@@ -46,7 +46,7 @@ Spring
 
 ## 🔢 Version
 <!-- VERSION:START -->
-
+1
 <!-- VERSION:END -->
 
 ## 🏷️ Tags
@@ -93,7 +93,7 @@ test
 
 ## 📅 CreatedOn
 <!-- CREATED_ON:START -->
-2026-04-29 UTC
+2026-04-29
 <!-- CREATED_ON:END -->
 
 ## 👤 CreatedBy
@@ -109,26 +109,25 @@ s.s.elangovan@accenture.com
 
 ## 🔎 SMEReview
 <!-- SME_REVIEW:START -->
-
 ### ✅ ReviewData
 > Rating scale: 1 (Poor) → 2 (Fair) → 3 (Good) → 4 (Very Good) → 5 (Excellent)
 
 | Criteria                   | Rating | Visual          |
 |----------------------------|--------|-----------------|
-| Technical Accuracy         | 1 / 5  | ⭐☆☆☆☆          |
-| Security & Compliance      | 1 / 5  | ⭐☆☆☆☆          |
-| Adherence to Standards     | 1 / 5  | ⭐☆☆☆☆          |
-| Code Quality / Readability | 3 / 5  | ⭐⭐⭐☆☆          |
+| Technical Accuracy         | 5 / 5  | ⭐⭐⭐⭐⭐          |
+| Security & Compliance      | 3 / 5  | ⭐⭐⭐☆☆          |
+| Adherence to Standards     | 3 / 5  | ⭐⭐⭐☆☆          |
+| Code Quality / Readability | 2 / 5  | ⭐⭐☆☆☆          |
 | Documentation Completeness | 2 / 5  | ⭐⭐☆☆☆          |
-| Reusability / Scalability  | 3 / 5  | ⭐⭐⭐☆☆          |
+| Reusability / Scalability  | 2 / 5  | ⭐⭐☆☆☆          |
 
 ## 🔄 ReviewDecision
 
 ### OverallStatus
 <!-- OVERALL_STATUS:START -->
-- ✅ Approved
+- ⬜ ✅ Approved
 - ⬜ 🔁 Approved with Changes
-- ⬜ ❌ Rejected
+- ✅ ❌ Rejected
 - ⬜ 🔍 Needs Re-review
 <!-- END: Overall Status -->
 
@@ -139,7 +138,7 @@ s.s.elangovan@accenture.com
 | 🔴 Critical | ⬜ |
 | 🟠 Major | ⬜ |
 | 🟡 Minor | ⬜ |
-| ⚪ None | ⬜ |
+| ⚪ None | ✅ |
 <!-- END: Priority of Changes -->
 
 ### Re-reviewRequired?
@@ -147,12 +146,12 @@ s.s.elangovan@accenture.com
 | Option | Selected |
 |--------|----------|
 | ✅ Yes | ⬜ |
-| ❌ No | ⬜ |
+| ❌ No | ✅ |
 <!-- END: Re-review Required -->
 
 ### Re-reviewDueDate
 <!-- REREVIEW_DUE_DATE:START -->
-2026-04-29
+
 <!-- END: REREVIEW_DUE_DATE -->
 
 <!-- END: SME Review -->
