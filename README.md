@@ -10,7 +10,7 @@
 
 ## 📋 AssetStatus
 <!-- RDE_ASSET_STATUS:START -->
-stage-validating
+stage-proven
 <!-- RDE_ASSET_STATUS:END -->
 
 ## 🗂️ AssetCategory
@@ -46,7 +46,7 @@ Spring
 
 ## 🔢 Version
 <!-- VERSION:START -->
-1
+2
 <!-- VERSION:END -->
 
 ## 🏷️ Tags
@@ -115,19 +115,19 @@ s.s.elangovan@accenture.com
 | Criteria                   | Rating | Visual          |
 |----------------------------|--------|-----------------|
 | Technical Accuracy         | 5 / 5  | ⭐⭐⭐⭐⭐          |
-| Security & Compliance      | 3 / 5  | ⭐⭐⭐☆☆          |
-| Adherence to Standards     | 3 / 5  | ⭐⭐⭐☆☆          |
-| Code Quality / Readability | 2 / 5  | ⭐⭐☆☆☆          |
-| Documentation Completeness | 2 / 5  | ⭐⭐☆☆☆          |
-| Reusability / Scalability  | 2 / 5  | ⭐⭐☆☆☆          |
+| Security & Compliance      | 5 / 5  | ⭐⭐⭐⭐⭐          |
+| Adherence to Standards     | 4 / 5  | ⭐⭐⭐⭐☆          |
+| Code Quality / Readability | 5 / 5  | ⭐⭐⭐⭐⭐          |
+| Documentation Completeness | 5 / 5  | ⭐⭐⭐⭐⭐          |
+| Reusability / Scalability  | 5 / 5  | ⭐⭐⭐⭐⭐          |
 
 ## 🔄 ReviewDecision
 
 ### OverallStatus
 <!-- OVERALL_STATUS:START -->
 - ⬜ ✅ Approved
-- ⬜ 🔁 Approved with Changes
-- ✅ ❌ Rejected
+- ✅ 🔁 Approved with Changes
+- ⬜ ❌ Rejected
 - ⬜ 🔍 Needs Re-review
 <!-- END: Overall Status -->
 
